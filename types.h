@@ -29,13 +29,13 @@ BrilhoBrilhante TAzul = { 1.f, 1.f, 1.0f, 0.5f, true, false };
 BrilhoBrilhante TRosa = {1.0, 0.0, 0.55, 1.f, true, false};
 
 /*Variaveis*/
-DWORD LocalPlayer = 0x00A8D53C;
-DWORD EntityList = 0x04AAECC4;
-DWORD m_iGlowIndex = 0x0000A320;
-DWORD m_dwGlowObject = 0x04FC60B4; //A minha estava mal
-DWORD isDormant = 0x000000E9; //m_bDormant
-DWORD m_iTeamNum = 0x000000F0;
-DWORD m_iHealth = 0x000000FC;
+DWORD LocalPlayer = 0xCC96A4;
+DWORD EntityList = 0x4CD9FEC;
+DWORD m_iGlowIndex = 0xA3F8;
+DWORD m_dwGlowObject = 0x5219F38; //A minha estava mal
+DWORD isDormant = 0xED; //m_bDormant
+DWORD m_iTeamNum = 0xF4;
+DWORD m_iHealth = 0x100;
 //DWORD m_iCrossHairID = 0xAA44;
 DWORD tEntity;
 DWORD Client;
